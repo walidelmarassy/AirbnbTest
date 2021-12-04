@@ -1,8 +1,6 @@
 # AirbnbTest
-1-first Put location (Rome,Italy)
-
+1-first Put location (Rome,Italy)n
 2-put date make difference between check-in and check-out one week
-
 3-select guests 2 adults and 1 child
 4-then click search
 5-click on more filters
